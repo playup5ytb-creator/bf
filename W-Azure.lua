@@ -9,8 +9,8 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/hluuvn/Roblox/refs/h
         KeySystem = true,
         Title = "🔐Key W-Azure",
         Description = "",
-        KeyLink = "Dán link getkey vào đây",
-        Keys = {"nhập key mặc định ở đây"},
+        KeyLink = "https://link4m.com/QmE3E8dr",
+        Keys = {"hluuvn"},
         Notifi = {
         Notifications = true,
         CorrectKey = "⏳Đang load Script...",
